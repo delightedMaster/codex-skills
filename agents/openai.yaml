@@ -1,0 +1,7 @@
+interface:
+  display_name: "学术报告ppt"
+  short_description: "制作极简高信息密度学术PPT，保留充分讲解，并精细处理文本、表格与科研图表"
+  brand_color: "#244D70"
+  default_prompt: "请使用 $academic-report-ppt 根据我的材料制作可编辑学术报告PPT，采用简洁高信息密度版式，将主要讲解写在页面上，并检查字体、段落、表格和图表。"
+policy:
+  allow_implicit_invocation: true
